@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvaluacionUnidad4Programacion2</string>
+    <string name="button_add_reading">Agregar Lectura</string>
+    <string name="label_reading_type">Tipo de Lectura</string>
+</resources>
